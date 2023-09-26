@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #FDD04C;
+  background-color: #1B0064;
   
 }
 
@@ -16,10 +16,11 @@ body {
   justify-content: center;
   width: 100%;
   margin-top: 100px;
+ 
 }
 
 .card {
-  background-color: #FFFCEA;
+  background-color: #e7dede80;
   padding: 30px;
   border-radius: 4%;
   box-shadow: 3px 3px 1px 0px #00000060;
@@ -29,7 +30,7 @@ body {
 .card h1{
   text-align: center;
   margin-bottom: 20px;
-  color: #9B7D04;
+  color: #000000;
 }
 
 .label-float input{
@@ -37,7 +38,7 @@ body {
   padding: 5px 5px;
   display: inline-block;
   border: 0;
-  background-color: #FDD04C;
+  background-color: #fff;
   outline: none;
   min-width: 180px;
   font-size: 16px;
@@ -66,7 +67,7 @@ body {
 }
 
 .label-float label{
-  color: #9B7D04;
+  color: #000000;
   position: absolute;
   top: 0;
   left: 0;
@@ -79,7 +80,7 @@ body {
   font-size: 13px;
   margin-top: 0;
   padding-bottom: 20px;
-  color: #ff10cb;
+  color: #000000;
 }
 
 button{
@@ -131,5 +132,3 @@ button:hover{
   border-radius: 4px;
   display: none;
 }
-
-
